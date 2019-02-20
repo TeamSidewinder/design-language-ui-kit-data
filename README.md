@@ -26,7 +26,7 @@ Download the [SLDS UI Kit](https://github.com/salesforce-ux/design-system-ui-kit
 
 ### Sketch
 
-Download the most recent version of [Sketch](https://www.sketchapp.com/).
+Download the most recent version of [Sketch](https://www.sketchapp.com).
 
 
 ## Getting Started
@@ -54,6 +54,10 @@ In Sketch 52, Sketch released a new feature that allows designers to link text a
 Great! Please take a look at our [contribution guidelines](https://github.com/salesforce-ux/design-system-ui-kit-data/blob/master/CONTRIBUTING.md) for instructions on how to proceed.
 <br />
 <br />
+
+### Here's what we're already planning to add
+- Exhaustive list of Ticketmaster Segments, Genres, and Subgenres
+- More thorough list of venue food & beverage and pricing
 
 ## License
 
