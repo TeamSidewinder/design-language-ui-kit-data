@@ -6,8 +6,9 @@ A collection of placeholder data for use as [Sketch custom data](https://medium.
 ----
 
 ## Requirements
-[//]: <> (### Live Nation Design Language UI Kit)
-[//]: <> (Download the [LNDL UI Kit](https://github.com/TeamSidewinder/design-language-ui-kit/archive/master.zip.)
+ 
+### Live Nation Design Language UI Kit
+Download the [LNDL UI Kit](https://github.com/TeamSidewinder/design-language-ui-kit/archive/master.zip.)
 
 ### Sketch
 Download the most recent version of [Sketch](https://www.sketchapp.com).
@@ -42,7 +43,7 @@ Great! Please take a look at our [contribution guidelines](https://github.com/Te
 ## Disclaimer
 This is all placeholder data and is not intended to be used in live or fully released products. Some data points are based on Live Nation properties and Ticketmaster categorization, but is not kept up-to-date. Names, characters, businesses, places, events, locales, numbers, emails, URLs and other content in this repository have been created to be used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
 
-[//]: <> (## License)
-[//]: <> (All icons and images are licensed under [Creative Commons Attribution-NoDerivatives 4.0](https://github.com/TeamSidewinder/licenses/blob/master/LICENSE-icons-images.txt)
+## License
+All icons and images are licensed under [Creative Commons Attribution-NoDerivatives 4.0](https://github.com/TeamSidewinder/licenses/blob/master/LICENSE-icons-images.txt)
 
 [![Design System UI Kit](https://user-images.githubusercontent.com/882331/53369931-38ab1f00-3901-11e9-95f7-3ba05a225edd.png)](https://github.com/TeamSidewinder/design-language-ui-kit/archive/master.zip)
