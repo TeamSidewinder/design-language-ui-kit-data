@@ -17,7 +17,7 @@ Download the most recent version of [Sketch](https://www.sketchapp.com).
 ## Getting Started
 Download and unzip the `LNDL Data` folder into your Documents directory so the file path is `HD/Users/[YourName]/Documents/LNDL Data`. This exact path is important to use or you will lose the data in your Sketch designs in future updates. 
 
-In Sketch, open `Sketch > Preferences` then click the `Data` tab. Click the `Add Data` button and select all the data files in your `LNDL Data` folder.
+In Sketch, open `Sketch > Preferences` then select the `Data` tab. Select the `Add Data` button and select all the data files in your `LNDL Data` folder.
 
 ![Adding LNDL Data to Sketch](https://user-images.githubusercontent.com/1750832/46513577-1a3b6e80-c80e-11e8-860d-32d35badca83.png)
 
