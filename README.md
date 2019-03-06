@@ -33,7 +33,6 @@ Great! Please take a look at our [contribution guidelines](https://github.com/Te
 
 
 #### Here's what we're already planning to add
-- Exhaustive list of Ticketmaster Segments, Genres, and Subgenres
 - More thorough list of venue food & beverage and pricing
 - Events
 - Link to LNDL UI Kit

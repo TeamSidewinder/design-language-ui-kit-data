@@ -1,13 +1,925 @@
+College
+Minor League
+Miscellaneous
 Comedy
-Classical/Vocal
-Performance Art
-Pop
+Undefined
+Fusion
+High School
+Professional
+Acid Folk
+Acid Jazz
 Adult Contemporary
-Opera
+African Jazz
+Afro-Cuban Jazz
 Alternative Rock
-Jazz
+Ambient
+Americana
+Asian Pop
+Bluegrass-Gospel
+Blues Gospel
+Brazilian Jazz
+British Punk
+Celtic Pop
+Christian Metal
+Christian Rap
+Christian Rock
+Classical/Vocal
+Country Blues
+Country Gospel
+Country Soul
+Cuban Big Band
+Cuban Jazz
+Dance
+Doo Wop
+Doom Metal
+Drama
+Dream Pop
+European Jazz
+European Pop
+Folk Rock
+Folk-Blues
+Free Funk
+French Pop
+French Rock
+Funk Metal
+Goth Metal
+Hair Metal
+Hawaiian Pop
+Hawaiian R&B & Hip-Hop
+Holiday
+Indie Pop
+Indie Rock
+Industrial Metal
+Italian Pop
+Japanese Pop
+Japanese Rock
+Jazz Funk
+Jewish Folk
+Klezmer
+Latin Christian
+Latin Contemporary Christian
+Latin Electronica
+Latin Folk
+Latin Jazz
+Latin Pop
+Latin Rock
+Latin Soul
+Mediterranean
+Mexican Folk
+Multimedia
+Neo-Classical Metal
+Neo-Traditional Folk
+New Acoustic
+New Age
+New Wave
+New Wave Of British Heavy Metal
+Other
+Pop
+Pop Metal
+Post-Punk
+Power Metal
+Power Pop
+Punk Metal
+Rap-Metal
+Rap-Rock
+Reggae Gospel
+Scandinavian Metal
+Sludge Metal
+Stoner Metal
+Symphonic Black Metal
+Traditional Folk
+Traditional Middle Eastern Folk
+Urban
+Urban Folk
+World Dance
+Worldbeat
+2-Step
+2-Step/British Garage
+A Cappella
+Aborginal Folk
+Aboriginal Rock
+Acadian
+Acid House
+Acid Rock
+Acid Techno
+Acoustic Blues
+Action/Adventure
+Adult Alternative
+Adult Alternative Pop
+Adult Alternative Pop/Rock
+Afghanistan
+AFL
+African
+African Folk
+African Pop
+Afro Brazilian
+Afro Peruvian
+Afro-Beat
+Afro-Cuban
+Afro-Pop
+Algeria
+Alternative
+Alternative Christian
+Alternative Country
+Alternative Dance
+Alternative Folk
+Alternative Metal
+Alternative Rap
+Alternative Roots
+Ambient Breakbeat
+Ambient Electronica
+Ambient House
+Ambient Pop
+Ambient Techno
+American Alternative
+American Punk
+Anarchist Punk
+Andalus Classical
+Andean Folk
+Andes
+Animation
+Anti-Folk
+Appalachian
+Appalachian Folk
+Aquatics
+Arabic
+Arena Rock
+Argentina
+Armenian
+Art Rock
+Arthouse
+Asia
+Athletic Races
+Aussie Rock
+Australasia
+Avant-Garde
+Avant-Garde Blues
+Avant-Garde Country
+Avant-Garde Jazz
+Avant-Garde Rock
+Bachata
+Badminton
+Bahamas
+Bakersfield Sound
+Ballads
+Ballads/Romantic
+Ballet
+Ballroom Dance
+Banda
+Bandy
+Bar Band
+Baroque Pop
+Beach
+Bebop
+Beguine
+Beguine Moderne
+Belair
+Belly Dancing
+Benin
+Bhangra
+Bhutan
+Biathlon
+Big Band
+Big Band Latino
+Big Band/Swing
+Big Beat
+Bikutsi
+Blue-Eyed Soul
+Bluebeat
+Bluegrass
+Blues
+Blues Revival
+Blues-Rock
+Body Building
+Bolero
+Bolivia
+Bollywood
+Boogaloo
+Boogie Rock
+Boogie-Woogie
+Bossa Nova
+Botswana
+Boxing
+Brazil
+Brazilian Folk And Dance
+Brazilian Pop
+Brill Building Pop
+British Alternative
+British Blues
+British D416
+British Dance Bands
+British Folk
+British Folk-Rock
+British Invasion
+British Metal
+British Pop
+British Psychedelia
+British Rap
+British Ska
+Broken Beat
+Brown-Eyed Soul
+Bubblegum & Sunshine Pop
+Bulgarian Folk
+Bullriding
+Burundi
+C-86
 Cabaret
+Cadence
+Calypso
+Cambodia
+Cameroon
+Canterbury Scene
+Canto-Pop
+Cape Verde
+Carnatic
+Carribbean
+Casino/Gaming
+Celebrity
+Celtic
+Celtic Folk
+Celtic Gospel
+Celtic New Age
+Celtic Rock
+Celtic/ British Isles
+Central Europe
+Central European Folk
+Cha-Cha
+Chamber Jazz
+Chamber Music
+Chamber Pop
+Chanson Francaise
+Chant
+Chassidic
+Chicago Blues
+Chicago Soul
+Children's Music
+Children's Theatre
+Chile
+Chimurenga
+China
+Chinese Pop
+Chouval Bwa
+Christian Punk
+Christmas
+Christmas Music
+Church Music
+Circus
+Classic Big Band
+Classic Country
+Classic Jazz
+Classic R&B
+Classic Rock
+Classic Ska
+Classic Soul
+Classic/Reissue
+Close Harmony
 Club Dance
-Soul
-Gospel
+Cocktail
+College Rock
+Colombia
+Community/Civic
+Compas
+Conjunto
+Contemporary Big Band
+Contemporary Bluegrass
+Contemporary Blues
+Contemporary Celtic
+Contemporary Christian
+Contemporary Country
+Contemporary Flamenco
+Contemporary Folk
+Contemporary Instrumental
+Contemporary Jazz
+Contemporary R&B
+Contemporary Reggae
+Continental Europe
+Continental Jazz
+Cool
+Cool Jazz
+Corrido
+Costa Rica
+Country
+Country Folk
+Country Pop
+Cowboy
+Cowpunk
+Creole
+Cricket
+Cross Country
+Crossover Jazz
+Cuban
+Cuban Calypso
+Cuban Charanga
+Cuban Pop
+Cuban Rhumba
+Cultural
+Cumbia
+Curling
+Cycling
+Dance Bands
+Dance Pop
+Dance-Rock
+Dance/Electronic
+Dancehall Reggae
+Danzon
+Dark Ambient
+Death Metal/ Black Metal
+Death Metal/Black Metal
+Deep Funk
+Deep Funk Revival
+Deep Soul
+Delta Blues
+Detroit Blues
+Detroit Rock
+Detroit Techno
+Dhrupad
+Dirty Blues
+Dirty Rap
+Disco
+Dixieland
+DJ
+Djabdong
+Documentary
+Dominican Republic
+Downbeat
+Downtempo
+Dressage
+Drill'n'bass
+Drinking Songs
+Drum 'n' Bass
+Dub
+Dub Electronica
+Dub Poetry
+Early American Blues
+Early British Rock
+Early Creative
+Early Rock & Roll
+East Coast Blues
+East Coast Rap
+Eastern Europe
+Egypt
+Electric Blues
+Electric Blues Guitar
+Electric Harmonica Blues
+Electro
+Electro-Acoustic
+Electro-Industrial
+Electro-Jazz
+Electro-Techno
+Electronic
+Electronic & Space Music
+Electronic Pop
+Electronica Mainstream
+Emo
+Environmental
+Equestrian
+Espectaculo
+Ethiopia
+Ethnic Fusion
+Euro Pop
+Euro-Dance
+Euro-Rock
+Europe
+European Rock
+Experimental Ambient
+Experimental Big Band
+Experimental Dub
+Experimental Electro
+Experimental Jungle
+Experimental Rock
+Experimental Techno
+Extreme
+Fado
+Fashion
+Field Recordings
+Fine Art
+Finger-Picked Guitar
+Flamenco
+Floorball
+Flower & Garden
 Folk
+Folk Jazz
+Folk Revival
+Folksongs
+Food & Drink
+Foreign
+Forro
+Frat Rock
+Freakbeat
+Free Jazz
+Freestyle
+Fuji
+Funk
+Funk-Rock
+Funky Breaks
+GAA
+Gabba
+Gabon
+Gangsta Rap
+Garage Punk
+Garage Rock
+Garage Rock Revival
+Georgian Choir
+German Folk
+German Rock
+Ghana
+Girl Group
+Glam
+Glitch
+Goa Trance
+Golf
+Gospel
+Gospel Choir
+Goth
+Greek Folk
+Grime
+Grindcore
+Grunge
+Guaguanc?
+Guinea
+Guitar Gods
+Guitar Virtuoso
+Gwo Ka
+Gymnastics
+Gypsy
+Haiti
+Handball
+Hapa-Haole
+Happy Hardcore
+Hard Bop
+Hard Rock
+Hardcore Punk
+Hardcore Rap
+Hardcore Techno
+Harmonica Blues
+Hawaiian
+Healing
+Health/Wellness
+Heartland Rock
+Heavy Metal
+Hebrew
+Hi-NRG
+Highlife
+Hip-Hop/Rap
+Hobby/Special Interest Expos
+Hong Kong Pop
+Honky Tonk
+Horror
+Horse Racing
+Hot Rod
+Hot Rod Revival
+House
+Hula
+Hungarian Folk
+Hymns
+Ice Hockey
+Ice Shows
+Ice Skating
+Illbient
+India & Pakistan
+Indian Classical
+Indian Pop
+Indonesia
+Indoor Soccer
+Industrial
+Industrial Dance
+Industrial Drum'n'Bass
+Inspirational
+Instrumental
+Instrumental Gospel
+Instrumental Rock
+Intelligent Dance Music
+International Pop
+International Rules
+Iran
+Iraq
+Irish Folk
+Islamic
+Israel
+Ivory Coast
+Jamaica
+Jangle Pop
+Japan
+Jazz
+Jazz Blues
+Jazz Standards
+Jazz-House
+Jazz-Rap
+Jazz-Rock
+Jesus Rock
+Jewish & Yiddish Music
+Jibaro
+Jit
+Jive
+Jive Jazz
+Jug Band
+Juju
+Juke Joint Blues
+Jump Blues
+Jungle/Drum 'n' Bass
+Junkanoo
+Karate
+Kenya
+Kickboxing
+Kora
+Korea
+Korean K-Pop
+Kraut Rock
+L.A. Punk
+Lacrosse
+Laika
+Lambada
+Laos
+Latin
+Latin America
+Latin Children's
+Latin Dance
+Latin Freestyle
+Latin Hip-hop
+Latin Hip-Hop
+Latin Rap
+Lebanon
+Left-Field House
+Lo-Fi
+Louisiana Blues
+Lovers Rock
+LPGA
+M-Base
+M?sica Popular Brasileira
+Madagascar
+Madchester
+Magic
+Makossa
+Mali
+Mambo
+Mantras
+Marabi
+Mariachi
+Math Rock
+Mbalax
+Mbaqanga
+Mbira
+Mbube
+Medieval/Renaissance
+Meditation
+Memphis Blues
+Memphis Soul
+Men Professional
+Mento
+Merengue
+Merenhouse
+Merseybeat
+Metal
+Mexican Banda
+Mexican Cumbia
+Mexican Duranguense
+Mexican Grupero
+Mexican Ranchera
+Mexican Sierreno
+Microhouse
+Microsound
+Middle Age
+Middle East
+Middle Eastern
+Midwestern Rap
+Mini Jazz
+Minimal Techno
+Minimalism
+Miscellaneous Theatre
+Mixed Martial Arts
+MLB
+MLS
+Mod
+Mod Revival
+Modern Big Band
+Modern Blues
+Modern Creative
+Modern Delta Blues
+Modern Electric Blues
+Modern Electric Chicago Blues
+Modern Electric D618
+Modern Electric Texas Blues
+Modern Free
+Monologue
+Morocco
+Motorsports/Racing
+Motown
+Musette
+Music
+Musical
+Mystery
+Nashville Sound
+Native American
+Nature
+NBA
+NBA D League
+NBDL
+NBL
+Neo-Classical
+Neo-Electro
+Neo-Glam
+Neo-Prog
+Neo-Psychedelia
+Neo-Soul
+Neo-Traditional Country
+Netball
+New Age World Music
+New Jack Swing
+New Orleans Blues
+New Orleans Brass Bands
+New Orleans Jazz
+New Orleans R&B
+New Romantic
+New York Blues
+New York Punk
+New York Salsa
+New Zealand Rock
+Newbeat
+NFL
+NHL
+Nicaragua
+Nigeria
+No Wave
+Noise Pop
+Nordic Combined
+Norteno
+North America
+Northern Soul
+Novelty Ragtime
+Nu Breaks
+Nueva Cancion
+Nueva Trova
+Nyahbinghi
+Obscuro
+Oi!
+Old School Rap
+Old-time Country
+Oldies & Classics
+Omutibo
+Onda Grupera
+Opera
+Orchestral Jazz
+Outlaw Country
+Pachanga
+Paisley Underground
+Pakistan
+Panama
+Pantomime
+Party Rap
+Party Soca
+Performance Art
+Peru
+PGA B-Tour
+PGA Senior Tour
+PGA Tour
+Philly Soul
+Piano Blues
+Piedmont Blues
+Pipe Bands
+Plena
+Political Folk
+Political Rap
+Political Reggae
+Polynesian Music
+Pop Punk
+Pop Rock
+Pop Underground
+Pop Vocal
+Pop-Soul
+Post-Bop
+Post-Disco
+Post-Grunge
+Post-Hardcore
+Post-Punk Revival
+Post-Rock/Experimental
+Praise & Worship
+Prewar Blues
+Prewar-Country Blues
+Prewar-Gospel Blues
+Progressive Alternative
+Progressive Big Band
+Progressive Country
+Progressive Electronic
+Progressive House
+Progressive Jazz
+Progressive Metal
+Progressive Rock
+Progressive Trance
+Proto-Punk
+Psychedelic
+Psychedelic Soul
+Psychics/Mediums/Hypnotists
+Psychobilly
+Pub Rock
+Public Skating
+Puerto Rico
+Punk
+Punk Blues
+Punk Revival
+Puppet Show
+Pygmy
+Qawwali
+Queercore
+Quiet Storm
+R&B
+Raga
+Ragga
+Ragtime
+Rai
+Ranchera
+Rapso
+Rave
+Reggae
+Reggae-Pop
+Reggaeton
+Relaxation
+Religious
+Rembetika
+Restaurant
+Retro Rock Revival
+Retro Swing
+Retro-Soul
+Revival
+Riot Grrrl
+Roadhouse Country
+Rock
+Rock & Roll
+Rock en Espa?ol
+Rock Steady
+Rockabilly
+Rockabilly Revival
+Rodeo
+Roller Hockey
+Roots Reggae
+Roots Rock
+Rugby
+Rugby League
+Rugby Union
+Russia
+Sadcore
+Salsa
+Samba
+Scandinavia
+Scandinavian Joik
+Scottish Folk
+Screamo
+Scriptures
+Sea Shanties
+Self-Help
+Senegal & Gambia
+Shibuya-Kei
+Shoegaze
+Shred
+Singer-Songwriter
+Ska
+Ska Punk
+Ska Revival
+Skatepunk
+Ski Jumping
+Skiffle
+Skiing
+Slack Key Guitar
+Slide Guitar
+Slowcore
+Smooth Jazz
+Smooth Reggae
+Smooth Soul
+Soca
+Soccer
+Society Dance Band
+Soft Rock
+Solo Instrumental
+Son
+Sonero
+Songster
+Sophisti-Pop
+Soukous
+Soul
+Soul Jazz
+Soul-Blues
+Soul-Jazz & Boogaloo
+South Africa
+South Pacific
+Southern Gospel
+Southern Rap
+Southern Rock
+Southern Soul
+Space
+Space Rock
+Spectacular
+Speed Metal
+Spiritual
+Spirituals
+Spouge
+Square Dance
+Squash
+St. Louis Blues
+Steel Band
+Straight-Edge
+Stride Piano
+String Dance
+Sudan
+Sunshine Pop
+Surf
+Surf Guitar
+Surf Revival
+Surf Rock
+Surfing
+Swamp Blues
+Swamp Pop
+Swedish Folk
+Swedish Pop/Rock
+Swedish Rock
+Sweet Bands
+Swimming
+Swing
+Swing Jazz
+Symphonic
+Synth Pop
+Syria
+Taarab
+Table Tennis
+Tahiti
+Taiwan
+Taiwanese Pop
+Tango
+Tanzania
+Tech-House
+Techno
+Techno Bass
+Techno-Dub
+Techno-House
+Techno-Tribal
+Teen Idol
+Teen Pop
+Tejano
+Tennis
+Tex-Mex
+Texas Blues
+Thai Pop
+Thailand
+Third Stream
+Third Wave Ska Revival
+Thrash & Speed
+Thrash & Speed Metal
+Throat Singing
+Tibet
+Toros
+Township Jazz
+Track & Field
+Traditional
+Traditional Bluegrass
+Traditional Blues
+Traditional Cajun
+Traditional Celtic
+Traditional Country
+Traditional Irish Folk
+Traditional Jazz & Ragtime
+Traditional Scottish Folk
+Trance
+Tribal-House
+Trinidad
+Trip Hop
+Trova
+Truck Driving Country
+Turkey
+Turntablism
+Turntablists
+Twee Pop
+U.K. Garage
+Uganda
+Ukelele
+Underground Rap
+Uptown Soul
+Urban Adult Contemporary
+Urban Cowboy
+Uruguay
+Vallenato
+Variety
+Vaudeville Blues
+Venezuela
+Vietnam
+Vintage Dance Bands
+Vocal Blues
+Vocal Jazz
+Vocalese
+Volleyball
+Waterpolo
+West Coast Blues
+West Coast Jazz
+West Coast Rap
+Western Europe
+Western Swing & Country Boogie
+Western Swing Revival
+WNBA
+Women Professional
+Work Songs
+World
+World Jazz
+World Rock
+Wrestling
+Yodeling
+Zaire & Congo
+Zimbabwe
+Zouk
+Zydeco

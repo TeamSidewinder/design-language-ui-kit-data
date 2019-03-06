@@ -1,21 +1,102 @@
-Alternative & Indie
-Arts & Culture
-Comedy
-Country
-Electronic
-Hard Rock & Metal
-Hip Hop & Rap
-Jazz & Blues
-Pop
-Rock
-R&B & Soul
 World
-Classical
-Performance Art
-Opera
-Jazz
-Variety
+Rock
 Dance/Electronic
-R&B
-Religious
+Jazz
+Alternative
+Pop
+Blues
 Folk
+Country
+R&B
+Reggae
+New Age
+Religious
+Hip-Hop/Rap
+Metal
+Basketball
+Miscellaneous
+Theatre
+Football
+Golf
+Hockey
+Baseball
+Classical
+Comedy
+Equestrian
+Holiday
+Martial Arts
+Rugby
+Skiing
+Undefined
+Circus & Specialty Acts
+Dance
+Family
+Food & Drink
+Medieval/Renaissance
+Multimedia
+Music
+Rodeo
+Soccer
+Variety
+Volleyball
+Action/Adventure
+Animation
+Aquatics
+Arthouse
+Athletic Races
+Badminton
+Ballads/Romantic
+Bandy
+Biathlon
+Body Building
+Boxing
+Casino/Gaming
+Chanson Francaise
+Children's Music
+Children's Theatre
+Community/Civic
+Community/Cultural
+Cricket
+Cultural
+Curling
+Cycling
+Documentary
+Drama
+Espectaculo
+Extreme
+Fairs & Festivals
+Fashion
+Fine Art
+Floorball
+Foreign
+Gymnastics
+Handball
+Health/Wellness
+Hobby/Special Interest Expos
+Ice Shows
+Ice Skating
+Indoor Soccer
+Lacrosse
+Magic & Illusion
+Miscellaneous Theatre
+Motorsports/Racing
+Netball
+Opera
+Other
+Performance Art
+Psychics/Mediums/Hypnotists
+Puppetry
+Roller Hockey
+Ski Jumping
+Special Interest/Hobby
+Spectacular
+Squash
+Surfing
+Swimming
+Table Tennis
+Tennis
+Toros
+Track & Field
+Urban
+Waterpolo
+Wrestling
