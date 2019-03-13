@@ -38,6 +38,11 @@ Great! Please take a look at our [contribution guidelines](https://github.com/Te
 - Update repo images
 - Update license
 
+
+## Credits
+Special thanks to [@salesforce](https://github.com/salesforce) and [@salesforce-ux](https://github.com/salesforce-ux), specifically [@aweibel](https://github.com/aweibel) for creating the original UI Kit Data repo.
+
+
 ## Disclaimer
 This is all placeholder data and is not intended to be used in live or fully released products. Some data points are based on Live Nation properties and Ticketmaster categorization, but is not kept up-to-date. Names, characters, businesses, places, events, locales, numbers, emails, URLs and other content in this repository have been created to be used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
 
