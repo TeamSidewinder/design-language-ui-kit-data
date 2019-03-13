@@ -34,7 +34,6 @@ Great! Please take a look at our [contribution guidelines](https://github.com/Te
 
 #### Here's what we're already planning to add
 - More thorough list of venue food & beverage and pricing
-- Events
 - Link to LNDL UI Kit
 - Update repo images
 - Update license
