@@ -19,11 +19,11 @@ Download and unzip the `LNDL Data` folder into your Documents directory so the f
 
 In Sketch, open `Sketch > Preferences` then select the `Data` tab. Select the `Add Data` button and select all the data files in your `LNDL Data` folder.
 
-![Adding LNDL Data to Sketch](https://user-images.githubusercontent.com/1750832/46513577-1a3b6e80-c80e-11e8-860d-32d35badca83.png)
+![Adding LNDL Data to Sketch](https://user-images.githubusercontent.com/882331/56925125-705e5080-6a83-11e9-9bda-24ff3a6a909f.png)
 
 In any text element or text symbol override, you can now populate your designs with the different Live Nation data types.
 
-![Overriding a Text Element with a Live Nation Case Status](https://user-images.githubusercontent.com/1750832/46513941-d3e70f00-c80f-11e8-8599-19850ab37518.png)
+![Overriding a Text Element with a Live Nation Case Status](https://user-images.githubusercontent.com/882331/56925092-5f154400-6a83-11e9-8cdc-7ccdd6c4f8a5.png)
 
 In Sketch 52, Sketch released a new feature that allows designers to link text and image files to be used as fake data. Read more about this feature and [how to install data sets here](https://medium.com/sketch-app-sources/using-the-new-data-feature-in-sketch-52-daee8403cabb).
 
@@ -35,7 +35,6 @@ Great! Please take a look at our [contribution guidelines](https://github.com/Te
 #### Here's what we're already planning to add
 - More thorough list of venue food & beverage and pricing
 - Link to LNDL UI Kit
-- Update repo images
 - Update license
 
 
